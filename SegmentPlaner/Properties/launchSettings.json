@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SegmentPlaner (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SegmentPlaner (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
